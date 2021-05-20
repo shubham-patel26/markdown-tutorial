@@ -59,3 +59,31 @@ ___
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
 
+<!-- Github Markdown -->
+
+```bash
+    npm install
+
+    npm start
+```
+
+```javascript
+
+    function add(num1, num2){
+        return num1 + num2;
+    }
+```
+
+
+<!-- Tables -->
+
+| Name    | Email           |
+| --------|-----------------|
+|shubham  |shubham@gmail.com|
+
+
+<!-- Task Lists -->
+
+* [x] Task 1
+* [x] Task 2
+* [ ] Task 3
